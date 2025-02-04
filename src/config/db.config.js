@@ -1,4 +1,3 @@
-// src/config/db.config.js
 const AWS = require('aws-sdk');
 
 const initializeDB = () => {
