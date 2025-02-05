@@ -2,10 +2,10 @@
 ### Pratik Chakraborty
 
 ## Frontend Repository
-https://github.com/PratikChakraborty10/sagex-assignment.git
+https://github.com/PratikChakraborty10/sagex-assignment
 
 ## Backend Repository
-https://github.com/PratikChakraborty10/sagex-backend.git
+https://github.com/PratikChakraborty10/sagex-backend
 
 ## More
 For this assignment the frontend and backend repositories both are hosted 
@@ -16,7 +16,7 @@ For this assignment the frontend and backend repositories both are hosted
 
 ## Run the frontend server locally
 - Clone the frontend repository in your local machine
- ```git clone https://github.com/PratikChakraborty10/sagex-assignment```
+-  ```git clone https://github.com/PratikChakraborty10/sagex-assignment.git```
 - Open the repository and run ```yarn``` in the root directory to install the dependencies
 - Add .env.local in the root directory
  ```
@@ -28,7 +28,7 @@ For this assignment the frontend and backend repositories both are hosted
 
 ## Run the server locally
 - Clone the backend respository in your local machine
- ```git clone https://github.com/PratikChakraborty10/sagex-backend```
+-  ```git clone https://github.com/PratikChakraborty10/sagex-backend.git```
 - Open the repository and run ```yarn``` in the root directory to install the dependencies
 - Add .env in the root directory
 ```
